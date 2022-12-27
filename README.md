@@ -11,4 +11,4 @@
 
 ## [Project 2: Movie Recommendation System](link)
 * The program recommends movies based on similarity between tags. Tags are made by combining cast, genre & synopsis data of movies. The program finds the 5 most similar movies to the selected movie from the database using K-nearest neighbours technique. The dataset used in this project is downloaded from Kaggle.com.
-![](link)
+![](https://github.com/abdullahshahzadkhan/Abdullah_Portfolio/blob/main/images/Screenshot%20(62).png)
