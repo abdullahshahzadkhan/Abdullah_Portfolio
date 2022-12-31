@@ -12,3 +12,7 @@
 ## [Project 3: Movie Recommendation System](https://github.com/abdullahshahzadkhan/Movie_Recommendation_System)
 * The program recommends movies based on similarity between tags. Tags are made by combining cast, genre & synopsis data of movies. The program finds the 5 most similar movies to the selected movie from the database using K-nearest neighbours technique. The dataset used in this project is downloaded from Kaggle.com.
 ![](https://github.com/abdullahshahzadkhan/Abdullah_Portfolio/blob/main/images/Screenshot%20(62).png)
+
+## [Project 4: Dog Breed Classifier](https://github.com/abdullahshahzadkhan/Dog_Breed_Classifier)
+* A model capable of doing breed classification of a dog by just “looking” into its image. The dataset consisted of labelled pictures of different dog breeds. I used Fast.ai's vision learner to train the model and finally deployed it on web using Gradio.
+![](https://github.com/abdullahshahzadkhan/Abdullah_Portfolio/blob/main/images/Screenshot%20(67).png)
