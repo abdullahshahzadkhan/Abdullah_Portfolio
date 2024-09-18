@@ -16,3 +16,7 @@
 ## [Project 4: Dog Breed Classifier](https://github.com/abdullahshahzadkhan/Dog_Breed_Classifier)
 * A deep learning model capable of doing breed classification of a dog by just “looking” into its image. The dataset consisted of labelled pictures of different dog breeds. I used Fast.ai's vision learner to train the model and finally deployed it on web using Gradio.
 ![](https://github.com/abdullahshahzadkhan/Abdullah_Portfolio/blob/main/images/Screenshot%20(67).png)
+
+## [Project 5: Diabetes Prediction using SVC](https://github.com/abdullahshahzadkhan/Diabetes_Prediction)
+* A machine learning model designed to predict diabetes based on health data. I processed the data, applied feature scaling, and trained the model using Support Vector Classifier (SVC). I also tried logistic regression for comparison, but SVC performed better. The model’s accuracy was evaluated on both training and test datasets.
+![](https://github.com/abdullahshahzadkhan/Abdullah_Portfolio/blob/main/images/Predictive%System.png)
