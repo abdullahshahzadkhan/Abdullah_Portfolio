@@ -19,4 +19,4 @@
 
 ## [Project 5: Diabetes Prediction using SVC](https://github.com/abdullahshahzadkhan/Diabetes_Prediction)
 * A machine learning model designed to predict diabetes based on health data. I processed the data, applied feature scaling, and trained the model using Support Vector Classifier (SVC). I also tried logistic regression for comparison, but SVC performed better. The model’s accuracy was evaluated on both training and test datasets.
-![Predictive System](https://github.com/abdullahshahzadkhan/Abdullah_Portfolio/blob/main/images/Predictive%20System.png)
+![](https://github.com/abdullahshahzadkhan/Abdullah_Portfolio/blob/main/images/Predictive%20System.png)
